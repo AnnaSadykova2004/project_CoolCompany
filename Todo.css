@@ -1,0 +1,17 @@
+.todo-item img {
+    height: 40px;
+}
+
+.image_caption1 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.image_caption2 {
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: 8px;
+    line-height: 18px;
+    color: #92928d;
+}
